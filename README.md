@@ -7,7 +7,7 @@
         content="width=device-width, initial-scale=1.0"
     >
 
-    <title>Your Company Name — Coming Soon</title>
+    <title>Prolecrat Games — Coming Soon</title>
 
     <meta
         name="description"
@@ -93,7 +93,7 @@
     <main>
         <p class="eyebrow">Independent games and technology</p>
 
-        <h1>Your Company Name</h1>
+        <h1>Prolecrat Games</h1>
 
         <p class="statement">
             We are building a new kind of game platform centered on
@@ -104,7 +104,7 @@
         <p class="status">Currently in development</p>
 
         <footer>
-            &copy; 2026 Your Company Name. All rights reserved.
+            &copy; 2026 Prolecrat Games. All rights reserved.
         </footer>
     </main>
 </body>
